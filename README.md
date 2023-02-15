@@ -1,3 +1,5 @@
+[![PyPI](https://img.shields.io/pypi/v/camelsnake.svg)](https://pypi.org/project/camelsnake/)
+
 # camelsnake
 
 `camelsnake` is a Python library for converting between camel case and snake case strings using regular expressions. It
